@@ -83,5 +83,23 @@ hr{
 .ow{
     background-color: var(--off-white-color)
 }
-
-
+.footer{
+    text-align:center;
+    background-color: var(--primary-color);
+    color:white;
+    padding: 2rem;
+    border-radius: 1.5rem 0rem 1.5rem 0rem;
+}
+.footer .link{
+    color:white;
+    border: 1px solid white;
+    
+}
+.footer-heading{
+    color: var(--gray-color);
+    font-size:1.7rem;
+    padding-bottom: 1rem;
+}
+.footer ul{
+    padding-inline-start:none;
+}
