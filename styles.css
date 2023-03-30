@@ -35,5 +35,26 @@ hr{
 .list-inline{
     display: inline;
     padding: 0rem 1rem;
+}
+.navigator{
+    background-color: var(--primary-color);
+    padding: 1rem;
+    border-radius:1.5rem 0rem 1.5rem 0rem;
 
 }
+.nav-brand{
+    color:white;
+    font-weight: bold;
+    font-size: 1.6rem;
+}
+
+.navigator .link{
+    color:white;
+}
+.nav-list{
+    text-align: right;
+}
+.navigator .link-active{
+    font-weight: bolder;
+}
+
