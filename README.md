@@ -1,2 +1,2 @@
 # neog-camp-lesson-3-practise
-to make a component library
+to learn to make a component library and build a real-world website with the help of it.
